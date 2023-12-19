@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bitcoin and Chill 😎
 
 <!--
 **sergei-gorecki/sergei-gorecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
